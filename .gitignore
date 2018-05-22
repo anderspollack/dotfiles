@@ -1,0 +1,8 @@
+*
+!.gitignore
+!.bashrc
+!.bash_profile
+!.bash_history
+!*/.config/nvim/init.vim
+!.emacs
+!*/.emacs.d/**
