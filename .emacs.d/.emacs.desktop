@@ -1,0 +1,151 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon May 21 17:02:48 2018
+;; Desktop file format version 208
+;; Emacs version 25.3.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23299 24104 18878 0) (desktop . "208") "anders@gertrude" nil nil ((((font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#f6f3e8") (background-color . "#242424") (line-spacing) (left-fringe . 8) (right-fringe . 8) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#656565") (image-mode-saved-params (160 . 53) (101 . 51) "Unprintable entity") (frameset--id . "0F4A-FFD5-DBB5-3219") (frameset--mini t) (height . 53) (width . 160) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 23) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "gertrude") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 56) (min-pixel-width . 70) (min-pixel-height-ignore . 28) (min-pixel-width-ignore . 35) (min-pixel-height-safe . 14) (min-pixel-width-safe . 14)) leaf (pixel-width . 1136) (pixel-height . 728) (total-width . 162) (total-height . 52) (normal-height . 1.0) (normal-width . 1.0) (buffer "phone-window-medium.png" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (((font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#f6f3e8") (background-color . "#242424") (line-spacing) (left-fringe . 8) (right-fringe . 8) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#656565") (environment) (display . "gertrude") (visibility . t) (scroll-bar-background . "gray20") (scroll-bar-foreground . "dark turquoise") (frameset--id . "B3E3-4734-BA5A-4596") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (explicit-name) (tool-bar-position . top) (mouse-color . "OrangeRed") (border-color . "gold") (height . 57) (width . 202) (left . 0) (top . 23)) ((min-height . 8) (min-width . 20) (min-height-ignore . 4) (min-width-ignore . 14) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 112) (min-pixel-width . 140) (min-pixel-height-ignore . 56) (min-pixel-width-ignore . 98) (min-pixel-height-safe . 28) (min-pixel-width-safe . 28)) hc (pixel-width . 1430) (pixel-height . 784) (total-width . 204) (total-height . 56) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 917) (pixel-height . 784) (total-width . 131) (total-height . 56) (normal-height . 1.0) (normal-width . 0.642402826855124) (buffer "App.js" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 4) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 1162) (start . 506))) (vc (last . t) (pixel-width . 513) (pixel-height . 784) (total-width . 73) (total-height . 56) (normal-height . 1.0) (normal-width . 0.3575971731448763) (combination-limit) (leaf (pixel-width . 513) (pixel-height . 593) (total-width . 73) (total-height . 42) (normal-height . 0.7519480519480521) (normal-width . 1.0) (buffer "portfolio.org" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 2213) (start . 1))) (leaf (last . t) (pixel-width . 513) (pixel-height . 191) (total-width . 73) (total-height . 14) (normal-height . 0.24805194805194805) (normal-width . 1.0) (buffer "*terminal*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 68) (start . 1))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("shell" "\"" "2" "web-mode" "3"))
+(setq regexp-search-ring nil)
+(setq register-alist '((104) (48 . "(switch-to-buffer-other-window \"*test*\")\n")))
+(setq file-name-history '("~/Desktop/portfolio/src/img/" "~/Desktop/green.jpg" "~/Desktop/Screen Shot 2018-05-16 at 5.52.43 PM.png" "~/Desktop/portfolio.org" "~/.emacs" "~/Desktop/portfolio.org" "~/.emacs" "~/Desktop/portfolio.org" "~/.emacs.d/stuff/linum-off.el" "~/.emacs" "~/Desktop/portfolio/src/App.js" "~/.emacs" "~/Desktop/portfolio/src/App.css" "~/Desktop/c2st.org" "~/.emacs" "~/Desktop/portfolio/src/App.js" "~/.emacs" "~/Desktop/portfolio/src/App.js" "~/.emacs.d/stuff/web-mode.el" "~/.emacs.d/" "~/.emacs" "~/Desktop/portfolio/src/App.js" "~/Desktop/Portfolio Site/Screenshots/C2ST/outlines.html" "~/.emacs" "~/Desktop/c2st.org"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/anders/Desktop/portfolio/src/img/phone-window-medium.png"
+  "phone-window-medium.png"
+  'image-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . no-conversion) (truncate-lines . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "img"
+  'dired-mode
+  nil
+  417
+  '(507 nil)
+  t
+  '("/Users/anders/Desktop/portfolio/src/img/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/anders/Desktop/Screen Shot 2018-05-21 at 1.20.29 PM.png"
+  "Screen Shot 2018-05-21 at 1.20.29 PM.png"
+  'image-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . no-conversion) (truncate-lines . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/anders/Desktop/portfolio.org"
+  "portfolio.org"
+  'org-mode
+  '(visual-line-mode)
+  2213
+  '(2213 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((mark-ring (2213 2213 2213 1075 2213 251 1069 253 251 2213))))
+
+(desktop-create-buffer 208
+  "/Users/anders/Desktop/portfolio/src/App.js"
+  "App.js"
+  'web-mode
+  '(visual-line-mode linum-mode undo-tree-mode)
+  1162
+  '(655 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (313 960 593 580 593 570 1141 571 579 583 549 579 579 623 1 1162))))
+
+(desktop-create-buffer 208
+  "/Users/anders/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode linum-mode undo-tree-mode)
+  3608
+  '(3609 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (3609 3557 3557 3578 3557 3557 3557 3557 3557 3557 3557 3557 3557 3557 3557 3557))))
+
+(desktop-create-buffer 208
+  "/Users/anders/.emacs.d/stuff/linum-off.el"
+  "linum-off.el"
+  'emacs-lisp-mode
+  '(linum-mode)
+  2595
+  '(644 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring (3336 1 1 644))))
+
+(desktop-create-buffer 208
+  nil
+  "*info*"
+  'Info-mode
+  '(visual-line-mode)
+  1494927
+  '(1492287 nil)
+  t
+  '("/Applications/Emacs.app/Contents/Resources/info/emacs" "Browsing Custom" ((history ("/Applications/Emacs.app/Contents/Resources/info/emacs" "Easy Customization" 1492287))))
+  '((tab-width . 8) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/anders/Desktop/portfolio/src/App.css"
+  "App.css"
+  'web-mode
+  '(visual-line-mode linum-mode undo-tree-mode)
+  568
+  '(537 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (682 729 537 630 652 1162 627 627 1026 536 627 627 627 627 1005 537))))
+
+(desktop-create-buffer 208
+  "/Users/anders/Desktop/Portfolio Site/Screenshots/C2ST/outlines.html"
+  "outlines.html"
+  'html-mode
+  '(visual-line-mode linum-mode undo-tree-mode)
+  216
+  '(126 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (98 216 207 208 208 208 208 215 125 125 258 257 216 98 98 98))))
+
+(desktop-create-buffer 208
+  "/Users/anders/.emacs.d/stuff/web-mode.el"
+  "web-mode.el"
+  'emacs-lisp-mode
+  '(visual-line-mode linum-mode undo-tree-mode)
+  293805
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
